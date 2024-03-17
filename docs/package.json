@@ -47,7 +47,7 @@
     "@mui/types": "workspace:^",
     "@mui/utils": "workspace:^",
     "@mui/x-charts": "6.18.7",
-    "@mui/x-data-grid": "6.18.7",
+    "@mui/x-data-grid": "6.19.5",
     "@mui/x-data-grid-generator": "6.18.7",
     "@mui/x-data-grid-premium": "6.18.7",
     "@mui/x-data-grid-pro": "6.18.7",
