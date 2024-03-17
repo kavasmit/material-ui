@@ -14,7 +14,7 @@
     "@mui-internal/docs-utilities": "workspace:^",
     "@mui/markdown": "workspace:^",
     "@mui/utils": "workspace:^",
-    "ast-types": "^0.14.2",
+    "ast-types": "^0.16.0",
     "doctrine": "^3.0.0",
     "fast-glob": "^3.3.2",
     "fs-extra": "^11.2.0",
