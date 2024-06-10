@@ -48,7 +48,7 @@
     "@mui/utils": "workspace:^",
     "@mui/x-charts": "6.18.7",
     "@mui/x-data-grid": "6.18.7",
-    "@mui/x-data-grid-generator": "6.18.7",
+    "@mui/x-data-grid-generator": "7.0.0",
     "@mui/x-data-grid-premium": "6.18.7",
     "@mui/x-data-grid-pro": "6.18.7",
     "@mui/x-date-pickers": "6.18.7",
