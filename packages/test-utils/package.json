@@ -39,7 +39,7 @@
     "playwright": "^1.40.1",
     "prop-types": "^15.8.1",
     "react-test-renderer": "^18.2.0",
-    "sinon": "^15.2.0"
+    "sinon": "^19.0.0"
   },
   "devDependencies": {
     "@types/chai": "^4.3.11",
