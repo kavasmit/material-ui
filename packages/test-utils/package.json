@@ -35,7 +35,7 @@
     "fs-extra": "^11.2.0",
     "jsdom": "^22.1.0",
     "lodash": "^4.17.21",
-    "mocha": "^10.2.0",
+    "mocha": "^11.0.1",
     "playwright": "^1.40.1",
     "prop-types": "^15.8.1",
     "react-test-renderer": "^18.2.0",
