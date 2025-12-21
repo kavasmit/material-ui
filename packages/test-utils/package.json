@@ -21,7 +21,7 @@
     "@babel/plugin-transform-modules-commonjs": "^7.23.3",
     "@babel/preset-typescript": "^7.23.3",
     "@babel/register": "^7.23.7",
-    "@babel/runtime": "^7.23.7",
+    "@babel/runtime": "^7.26.10",
     "@emotion/cache": "^11.11.0",
     "@emotion/react": "^11.11.3",
     "@mnajdova/enzyme-adapter-react-18": "^0.2.0",
@@ -35,11 +35,11 @@
     "fs-extra": "^11.2.0",
     "jsdom": "^22.1.0",
     "lodash": "^4.17.21",
-    "mocha": "^10.2.0",
-    "playwright": "^1.40.1",
+    "mocha": "^11.0.1",
+    "playwright": "^1.55.1",
     "prop-types": "^15.8.1",
     "react-test-renderer": "^18.2.0",
-    "sinon": "^15.2.0"
+    "sinon": "^16.1.2"
   },
   "devDependencies": {
     "@types/chai": "^4.3.11",
