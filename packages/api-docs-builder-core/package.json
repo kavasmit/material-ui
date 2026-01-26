@@ -12,7 +12,7 @@
     "@mui-internal/api-docs-builder": "^1.0.0",
     "@mui/markdown": "^5.0.0",
     "docs": "^5.0.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@types/chai": "^4.3.11",
